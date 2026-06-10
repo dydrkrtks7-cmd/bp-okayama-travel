@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title><![CDATA[Okayama Okayama travel 안내]]></title>
-  <link>https://</link>
-  <description><![CDATA[Okayama 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-  <language>ko-KR</language>
-  <pubDate>Tue, 26 May 2026 15:30:05 GMT</pubDate>
-  <lastBuildDate>Tue, 26 May 2026 15:30:05 GMT</lastBuildDate>
-  <atom:link href="https:///feed.xml" rel="self" type="application/rss+xml" />
+  <title><![CDATA[정보]]></title>
+  <link>https://dydrkrtks7-cmd.github.io/bp-okayama-travel</link>
+  <description><![CDATA[정보 - Okayama travel 안내 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 02:44:57 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 02:44:57 GMT</lastBuildDate>
+  <atom:link href="https://dydrkrtks7-cmd.github.io/bp-okayama-travel/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
-      <title><![CDATA[Okayama Okayama travel 안내 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https:///</link>
-      <guid isPermaLink="true">https:///</guid>
-      <description><![CDATA[Okayama 정보 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
-      <pubDate>Tue, 26 May 2026 15:30:05 GMT</pubDate>
+      <title><![CDATA[Okayama travel 안내 솔직 후기 — 3개월 써본 사람의 리얼 리뷰]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-okayama-travel/posts/review-002-1nt3vm8.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-okayama-travel/posts/review-002-1nt3vm8.html</guid>
+      <description><![CDATA[아, 진짜... 나이키 전직원이 된 시점에서 한정판 스니커즈 마이너 디테일에 대해 이야기하자면, 이번 리스탁에서 달라진 인솔 로고 프린트를 들여다보는 건 정말 재미있죠. 구체적으로는 아식스 젤 카야노 14 OG 아이보리 컬러웨이의 2023년 리스탁에서 인솔 로고에 변한]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Okayama travel 안내 관련 추천 정보 — 놓치면 후회할 꿀팁]]></title>
+      <link>https://dydrkrtks7-cmd.github.io/bp-okayama-travel/posts/t3link-001-1nt3vm8.html</link>
+      <guid isPermaLink="true">https://dydrkrtks7-cmd.github.io/bp-okayama-travel/posts/t3link-001-1nt3vm8.html</guid>
+      <description><![CDATA[### 포스트 메타정보포스트 기획 테마: Okayama travel 안내 관련 추천 정보 — 놓치면 후회할 꿀팁 백링크 지시: 본문 내러티브 속에서 다음 링크를 자연스러운 발견으로 녹여라: 백링크 대행 사이트 ## 글룸헤이븐 1판과 2판 사이에 변경된 클래스 카드 7종]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
