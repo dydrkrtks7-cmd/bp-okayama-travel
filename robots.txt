@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://okayama-travel.pages.dev/sitemap.xml
+Sitemap: https://okayama-travel-guide.pbn-builder.xyz/sitemap.xml
