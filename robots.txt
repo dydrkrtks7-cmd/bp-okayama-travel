@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sangsu-fullsalon-note.test-purchase-check.xyz/sitemap.xml
-Sitemap: https://sangsu-fullsalon-note.test-purchase-check.xyz/sitemap-pages.xml
+Sitemap: https://okayama-travel-guide.pbn-builder.xyz/sitemap.xml
+Sitemap: https://okayama-travel-guide.pbn-builder.xyz/sitemap-pages.xml
