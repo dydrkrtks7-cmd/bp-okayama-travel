@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://okayama-travel-guide.pbn-builder.xyz/sitemap.xml
+Sitemap: https://sangsu-fullsalon-note.test-purchase-check.xyz/sitemap.xml
+Sitemap: https://sangsu-fullsalon-note.test-purchase-check.xyz/sitemap-pages.xml
